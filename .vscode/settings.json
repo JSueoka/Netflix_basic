@@ -1,0 +1,16 @@
+{
+    "files.autoSave": "afterDelay",
+    "liveSassCompile.settings.autoprefix": [
+    
+    ],
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded", //"compressed", deixa em uma só linha
+            "extensionName": ".min.css",
+            "savePath": "/assets/css/"
+        }
+    ],
+    "workbench.colorTheme": "Monokai",
+    "workbench.tree.indent": 15,
+    "window.zoomLevel": 2
+}
