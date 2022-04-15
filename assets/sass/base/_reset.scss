@@ -12,7 +12,9 @@ html {
 body {
     box-sizing: border-box;
     position: relative;
-    // font-family: "Mont", sans-serif;
+    font-family: 'Times New Roman', sans-serif;
+    background-color: $black;
+    color: #fff;
 }
 main {
     position: relative;
